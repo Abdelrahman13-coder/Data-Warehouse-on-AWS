@@ -1,5 +1,10 @@
+
+<img align="left" alt="codeSTACKr | songs" width="70px" src="https://user-images.githubusercontent.com/58150666/186937046-0ec8e86b-303b-4463-9a45-f4bc53880f46.png"/>
+
 # Data-Warehouse-on-AWS
-Building ETL pipeline that extracts data from S3, stages them in Redshift, and transform data into a set of dimensional tables for their analytics team.
+
+### **Project Overview**
+> Building ETL pipeline that extracts data from S3, stages them in Redshift, and transform data into a set of dimensional tables for their analytics team.
 
 
 
