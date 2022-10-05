@@ -54,7 +54,7 @@
 
 ### **Star Schema**
 
-![image](https://user-images.githubusercontent.com/58150666/193865741-237ebaa5-10fd-481d-a4dd-8ded6bf9818d.png)
+![image](https://user-images.githubusercontent.com/58150666/193888462-865f9198-f09b-4216-b9c4-7c4bc2c5b248.png)
 
 
 
