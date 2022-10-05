@@ -59,4 +59,4 @@
 
 ![image](https://user-images.githubusercontent.com/58150666/194035207-8d64a641-9552-4e54-a7ec-e66b797fc222.png)
 
-
+[Connection to server solution](https://knowledge.udacity.com/questions/55420)
